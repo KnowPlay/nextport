@@ -16,6 +16,7 @@
 
 ![GitHub forks](https://img.shields.io/github/forks/KnowPlay/nextport?style=social) ![GitHub stars](https://img.shields.io/github/stars/KnowPlay/nextport?style=social)
 
+[![CI](https://github.com/KnowPlay/nextport/actions/workflows/base.yml/badge.svg)](https://github.com/KnowPlay/nextport/actions/workflows/base.yml)
 ![GitHub Pull Request (open)](https://img.shields.io/github/issues-pr/KnowPlay/nextport?color=blue) ![GitHub last commit](https://img.shields.io/github/last-commit/KnowPlay/nextport?color=pink) ![GitHub License](https://img.shields.io/github/license/KnowPlay/nextport?color=green) ![contributions welcome](https://img.shields.io/badge/contributions-welcome-purple.svg?style=flat)
 
   </div>

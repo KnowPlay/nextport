@@ -1,22 +1,22 @@
 <!-- PROJECT SUMMARY -->
 <div align="center">
-  <h1 align="center">Project Title</h1>
+  <h1 align="center">Next Port</h1>
 
   <p align="center">
     {}
     <br>
-    <a href="https://github.com/github_username/repo_name/issues">» submit a suggestion </a>
+    <a href="https://github.com/KnowPlay/nextport/issues">» submit a suggestion </a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">» report a bug </a>
+    <a href="https://github.com/KnowPlay/nextport/issues">» report a bug </a>
     ·
-    <a href="https://github.com/github_username/repo_name">» contact </a>
+    <a href="https://github.com/KnowPlay/nextport">» contact </a>
   </p>
 
   <div align="center">
 
-![GitHub forks](https://img.shields.io/github/forks/github_username/repo-name?style=social) ![GitHub stars](https://img.shields.io/github/stars/github_username/repo-name?style=social)
+![GitHub forks](https://img.shields.io/github/forks/KnowPlay/nextport?style=social) ![GitHub stars](https://img.shields.io/github/stars/KnowPlay/nextport?style=social)
 
-![contributions welcome](https://img.shields.io/badge/contributions-welcome-purple.svg?style=flat) ![GitHub License](https://img.shields.io/github/license/github_username/repo-name?color=green) ![GitHub Pull Request (open)](https://img.shields.io/github/issues-pr/github_username/repo-name?color=blue) ![GitHub last commit](https://img.shields.io/github/last-commit/github_username/repo-name?color=pink)
+![GitHub Pull Request (open)](https://img.shields.io/github/issues-pr/KnowPlay/nextport?color=blue) ![GitHub last commit](https://img.shields.io/github/last-commit/KnowPlay/nextport?color=pink) ![GitHub License](https://img.shields.io/github/license/KnowPlay/nextport?color=green) ![contributions welcome](https://img.shields.io/badge/contributions-welcome-purple.svg?style=flat)
 
   </div>
 </div>
@@ -88,7 +88,21 @@
 
 ### :honey_pot: Setup
 <!-- Add setup instructions here -->
+[Next.js](https://nextjs.org/docs/getting-started/installation)
 
+`nextport`
+- [x] npx create-next-app@latest
+```
+✔ Would you like to use TypeScript? … _No_ / Yes
+✔ Would you like to use ESLint? … No / _Yes_
+✔ Would you like to use Tailwind CSS? … No / _Yes_
+✔ Would you like to use `src/` directory? … No / _Yes_
+✔ Would you like to use App Router? (recommended) … No / _Yes_
+✔ Would you like to customize the default import alias (@/*)? … _No_ / Yes
+```
+`cd/next-port`
+  - [x] npm run dev
+ 
 ### :apple: Development
 <!-- Add development details here -->
 * []()

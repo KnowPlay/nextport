@@ -15,8 +15,8 @@ on:
         default: 'true'
       run_on_pull_request:
         description: 'Run workflow for pull request events (true/false)'
-        required: false
-        default: 'true'
+        required: true
+        default: 'false'
 
 jobs:
   build:

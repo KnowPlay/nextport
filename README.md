@@ -48,10 +48,28 @@
 ## :sunflower: About
 <!-- Add your project description here -->
 
-### :wrench: Tech Stack
+### :hammer_and_wrench: Tech Stack
 
-- [ ] 
-- [ ] 
+#### :heavy_plus_sign: Development Tools
+
+- [x] **Node.js**: The runtime environment for executing JavaScript on the server side
+- [x] **npm/yarn**: Package managers for handling project dependencies.
+
+#### :heavy_plus_sign: Frontend
+
+- [x] **React**: A JavaScript library for building user interfaces, serving as the backbone of the project's frontend.
+  - [x] **React Icons**: Provides a collection of popular icons that can be easily integrated into React projects.
+- [x] **Next.js**: A React framework that enables functionality such as server-side rendering and generating static websites, which enhances SEO and improves performance.
+- [x] **Tailwind CSS**: A utility-first CSS framework for rapid UI development, allowing for highly customizable styling directly in the markup.
+
+#### :heavy_plus_sign: Backend
+
+- [x] **TypeScript**: A typed superset of JavaScript, used for writing clearer and more error-proof code by providing types and interfaces, compiling down to plain JavaScript
+- [x] **Resend**: An email API designed for developers, used for handling email sending capabilities within the application
+
+#### :heavy_plus_sign: Deployment
+
+- [x] **Vercel/Netlify**: Recommended platforms for deploying Next.js applications, providing advantages like automatic builds, previews, and serverless functions
 
 ### :mushroom: Features
 

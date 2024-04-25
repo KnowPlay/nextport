@@ -1,0 +1,16 @@
+name: "Auto Add PR to Projects>Review/QA"
+
+on:
+  pull_request:
+    types: [opened, reopened]
+
+jobs:
+  add-to-project:
+    runs-on: ubuntu-latest
+    steps:
+      - name: "Add PR to Review/QA"
+        uses: konradpabjan/move-labeled-or-milestoned-issue-to-column@v3.0
+        with:
+          project-url: "https://github.com/orgs/KnowPlay/projects/7"
+          column-name: "Review/QA"
+          repo-token: "${{ secrets.GITHUB_TOKEN }}"

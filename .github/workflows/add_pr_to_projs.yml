@@ -13,4 +13,3 @@ jobs:
         with:
           project-url: "https://github.com/orgs/KnowPlay/projects/7"
           column-name: "Review/QA"
-          repo-token: "${{ secrets.GITHUB_TOKEN }}"

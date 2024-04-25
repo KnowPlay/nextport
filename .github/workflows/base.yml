@@ -7,6 +7,7 @@ on: # Specifies the GitHub events that trigger the workflow
   push:
     branches:
       - test
+      - hero
   # pull_request: # Trigger the workflow on pull request events
   #   branches:
   #     - main

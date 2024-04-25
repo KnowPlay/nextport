@@ -9,7 +9,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: "Add PR to Review/QA"
-        uses: konradpabjan/move-labeled-or-milestoned-issue-to-column@v3.0
+        uses: actions/add-to-project@v1
         with:
-          project-url: "https://github.com/orgs/KnowPlay/projects/7"
-          column-name: "Review/QA"
+          project: 'https://github.com/orgs/KnowPlay/projects/7'
+          column-name: 'Review/QA'
+          resource-id: ${{ github.event.pull_request.node_id }}
+          github-token: ${{ secrets.GITHUB_TOKEN }}

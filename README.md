@@ -106,10 +106,10 @@
  
 ### :apple: Development
 <!-- Add development details here -->
-* []()
-* []()
-* []()
-
+`cd/next-port`
+  - [type animation](https://www.npmjs.com/package/react-type-animation)
+    - [ ]  npm install react-type-animation
+  - 
 <!-- CONTRIBUTING -->
 ## :ear_of_rice: Contributing
 <!-- Add contribution guidelines here -->
